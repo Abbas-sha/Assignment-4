@@ -1,0 +1,10 @@
+
+function CustomBtn(){
+    return(
+        <div>
+            <button>Click Me</button>
+        </div>
+ )
+}
+
+export default CustomBtn
